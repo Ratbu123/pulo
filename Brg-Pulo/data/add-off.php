@@ -84,7 +84,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <title>Add Official</title>
 
     <!-- Link to the CSS file -->
-    <link rel="stylesheet" href="/BRG-PULO-REV/styles/styles.css"> <!-- Or adjust the path as needed -->
+    <link rel="stylesheet" href="/PULO/Brg-Pulo/styles/styles.css"> <!-- Or adjust the path as needed -->
 </head>
 <body>
 
